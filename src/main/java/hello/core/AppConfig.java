@@ -15,6 +15,8 @@ import hello.core.order.OrderServiceImpl;
 
 @Configuration //애플리케이션 설정정보
 public class AppConfig {
+	
+	//third commit
     
     @Bean //스프링컨테이너에 등록
     public MemberService memberService(){
